@@ -1,0 +1,33 @@
+
+body {
+	background-color: grey;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1,h2,h3{
+	text-align: center;
+	background-color: lightblue;
+}
+
+table, th, td 
+	{
+ 		border: 1px solid;
+	}
+table {
+  border-collapse: collapse;
+
+}
+
+td {
+  text-align: center;
+}
+
+h1{ font-size: 30px;}
+
+text.red-text{
+	color: red'
+}
+#rounded-img{
+	border-radius: 200px;
+}
+
