@@ -1,33 +1,44 @@
 
-body {
-	background-color: grey;
+body 
+{
+	background-color: lightblue;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
 
-h1,h2,h3{
+h1,h2,h3
+{
 	text-align: center;
-	background-color: lightblue;
+	background-color: yellow;
 }
 
 table, th, td 
 	{
  		border: 1px solid;
 	}
-table {
+table 
+{
   border-collapse: collapse;
 
 }
 
-td {
+td 
+{
   text-align: center;
 }
 
 h1{ font-size: 30px;}
 
-text.red-text{
-	color: red'
+text.red-text
+{
+	color: red;
 }
-#rounded-img{
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+#rounded-img
+{
 	border-radius: 200px;
 }
-
